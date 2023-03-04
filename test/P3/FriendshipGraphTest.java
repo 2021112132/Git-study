@@ -1,5 +1,4 @@
 package P3;
 
-public class FriendshipGraphTest {
-
+public class FriendshipGraph {
 }

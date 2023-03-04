@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="/HIT-Lab1-2021112132/src"/>
+	<classpathentry exported="true" kind="lib" path="/HIT-Lab1-2021112132/lib/junit-4.13.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
